@@ -8,8 +8,8 @@
   :source-paths ["src/clj" "src/cljs"]
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-2197"]
-                 [domina "1.0.3-SNAPSHOT"]
-                 [compojure "1.1.6"]]
+                 [compojure "1.1.6"]
+                 [domina "1.0.3-SNAPSHOT"]]
 
   :plugins [[lein-cljsbuild "1.0.3"]
             [lein-ring "0.8.8"]]
