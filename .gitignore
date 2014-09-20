@@ -10,3 +10,4 @@ pom.xml.asc
 /out
 /target
 /repl
+resources/public/js/*
